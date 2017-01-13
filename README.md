@@ -1,5 +1,7 @@
 # Cosulianu-Cristi-Mihail
 Proiect-IP
+
+
 Pas 1 - Deschideti folderul Mines
 Pas 2 - Deschideti folderul Debug
 Pas 3 - Double Click pe fisierul Mines.exe
@@ -10,4 +12,5 @@ Utilizand tastele Space si BackSpace vom insemna unde credem ca se afla o mina, 
 Utilizand tasta Enter vom putea vedea ce se ascunde in spatele X.urilor.
 Cifrele de la 0 la 8 reprezinta numarul de vecini ale casutei respective ce contin mine.
 
+Daca veti descoperii o pozitie in care se afla o mina, veti pierde.
 Pentru a castiga trebuie sa plasati steagurile pe locurile in care sunt minele, altfel vor trebuii rearanjate.
